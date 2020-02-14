@@ -1,4 +1,4 @@
-# PHP Easy RSVP
+# PHP Easy RSVP Online Registration System
 Simple PHP event RSVP management portal
 
 What is it?
