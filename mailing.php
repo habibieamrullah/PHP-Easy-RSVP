@@ -1,8 +1,5 @@
 <?php
-// Import PHPMailer classes into the global namespace
-// These must be at the top of your script, not inside a function
-//require("vendor/phpmailer/phpmailer/class.phpmailer.php");
-//require("vendor/phpmailer/phpmailer/class.smtp.php");
+
 require("phpmailer.php");
 require("smtp.php");
 
