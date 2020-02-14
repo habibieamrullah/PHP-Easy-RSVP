@@ -1,6 +1,9 @@
 # PHP Easy RSVP
 Simple PHP event RSVP management portal
 
+What is it?
+It is an easy PHP online registration portal that handle basic event RSVP and registration, including Administrator panel to manage registered users, automatic mailing and feedback collection system.
+
 How to use it?
 - Make your own web favicon and place it in this directory. For example you can use this online favicon generator service in this link: https://www.favicon-generator.org/ , then generate your favicon, download the zip file from that website, and extract it in this directory to replace existing favicons.
 
